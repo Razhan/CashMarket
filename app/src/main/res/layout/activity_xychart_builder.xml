@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <LinearLayout android:id="@+id/chart" android:orientation="horizontal"
+        android:layout_width="fill_parent" android:layout_height="247dp"
+        android:background="#000000"/>
+
+    <LinearLayout android:orientation="horizontal"
+        android:layout_width="fill_parent" android:layout_height="wrap_content"
+        android:background="#000000"
+        >
+
+
+        <!--<Button android:id="@+id/new_series" android:text="新增"-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="67dp"-->
+            <!--/>-->
+
+        <TextView
+            android:layout_width="31dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=""
+            android:id="@+id/textView3" />
+
+        <Button
+            android:layout_width="20dp"
+            android:layout_height="67dp"
+            android:text="涨"
+            android:id="@+id/button4"
+            android:layout_weight="0.02" />
+
+        <TextView
+            android:layout_width="20dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=""
+            android:id="@+id/textView2" />
+
+        <Button
+            android:layout_width="20dp"
+            android:layout_height="67dp"
+            android:text="跌"
+            android:paddingLeft="30dip"
+            android:paddingRight="26dip"
+            android:id="@+id/button5"
+            android:layout_weight="0.02" />
+
+        <TextView
+            android:layout_width="20dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=""
+            android:id="@+id/textView5" />
+
+
+        <Button
+            android:layout_width="20dp"
+            android:layout_height="67dp"
+            android:text="删除"
+
+            android:id="@+id/button6"
+            android:layout_weight="0.02" />
+
+        <!--<Button-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="67dp"-->
+            <!--android:text="全部"-->
+            <!--android:id="@+id/button8" />-->
+
+        <TextView
+            android:layout_width="20dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=""
+            android:id="@+id/textView6" />
+
+        <Button
+            android:layout_width="20dp"
+            android:layout_height="67dp"
+            android:text="保存"
+            android:id="@+id/button9"
+            android:layout_weight="0.02" />
+
+        <TextView
+            android:layout_width="20dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=""
+            android:id="@+id/textView7" />
+
+        <Button
+            android:layout_width="20dp"
+            android:layout_height="67dp"
+            android:text="重置"
+            android:id="@+id/button7"
+            android:layout_weight="0.02" />
+
+        <TextView
+            android:layout_width="20dp"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text=""
+            android:id="@+id/textView8" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="67dp"
+            android:text="关闭"
+            android:id="@+id/button8"
+            android:layout_weight="0.00" />
+
+    </LinearLayout>
+
+</LinearLayout>

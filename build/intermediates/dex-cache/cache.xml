@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Program Files\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\razha_000\AndroidStudioProjects\line_chart\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-bdb12ca1c5fe953e090fd5a103edb653e7de54ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\razha_000\AndroidStudioProjects\line_chart\app\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="C:\Users\razha_000\AndroidStudioProjects\line_chart\app\build\intermediates\pre-dexed\debug\achartengine-1.1.0-517c5d4bdcf0c2906a6a83fa2f5f6cc6aaefb122.jar" />
+    </item>
+
+</items>
