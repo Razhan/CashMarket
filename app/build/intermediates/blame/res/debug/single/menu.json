@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/menu/static_chart_line.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/menu/static_chart_line.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/menu/menu_help.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/menu/menu_help.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/menu/menu_main_activity2.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/menu/menu_main_activity2.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/menu/menu_xychart_builder.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/menu/menu_xychart_builder.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/menu/menu_rules_webview.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/menu/menu_rules_webview.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/menu/dynamic_chart_line_activity2.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/menu/dynamic_chart_line_activity2.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/menu/menu_file_chooser.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/menu/menu_file_chooser.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/menu/menu_sign_up.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/menu/menu_sign_up.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/menu/menu_success_rate_list.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/menu/menu_success_rate_list.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/menu/menu_login.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/menu/menu_login.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/menu/menu_statistics_file_chooser.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/menu/menu_statistics_file_chooser.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/menu/menu_test.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/menu/menu_test.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/menu/static_chart_line_activity2.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/menu/static_chart_line_activity2.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/menu/dynamic_chart_line.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/menu/dynamic_chart_line.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/menu/menu_list_view_multi_chart.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/menu/menu_list_view_multi_chart.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/menu/menu_button_demo.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/menu/menu_button_demo.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/menu/menu_new_login.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/menu/menu_new_login.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/menu/menu_list_view_bar_chart.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/menu/menu_list_view_bar_chart.xml"
+    }
+]

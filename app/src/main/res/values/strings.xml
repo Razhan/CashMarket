@@ -20,5 +20,32 @@
     <string name="title_activity_help">Help</string>
     <string name="title_activity_rules_webview">Rules_webview</string>
     <string name="title_activity_test">Test</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_statistics_file_chooser">StatisticsFileChooser</string>
+    <string name="title_activity_success_rate_list">SuccessRateList</string>
+    <string name="title_activity_new_login">NewLogin</string>
+
+    <style name="DefaultButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#979797</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:shadowColor">#f9f9f9</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+
+    <string name="title_activity_main">Spot Assistant</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_list_view_multi_chart">ListViewMultiChartActivity</string>
+    <string name="title_activity_list_view_bar_chart">ListViewBarChartActivity</string>
+    <string name="title_activity_load">Load</string>
+
+
 
 </resources>

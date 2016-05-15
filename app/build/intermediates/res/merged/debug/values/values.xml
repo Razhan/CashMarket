@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="add">Add</string>
+    <string name="add_values">Add values to the chart</string>
+    <string name="app_name">期货</string>
+    <string name="hello">Hello World, ButtonDemoActivity!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="new_series">New series</string>
+    <string name="title_activity_button_demo">ButtonDemoActivity</string>
+    <string name="title_activity_dynamic_chart_line">DynamicChartLineActivity</string>
+    <string name="title_activity_dynamic_chart_line_activity2">DynamicChartLineActivity2</string>
+    <string name="title_activity_file_chooser">FileChooser</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_list_view_bar_chart">ListViewBarChartActivity</string>
+    <string name="title_activity_list_view_multi_chart">ListViewMultiChartActivity</string>
+    <string name="title_activity_load">Load</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_main">Spot Assistant</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
+    <string name="title_activity_new_login">NewLogin</string>
+    <string name="title_activity_rules_webview">Rules_webview</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="title_activity_static_chart_line">StaticChartLineActivity</string>
+    <string name="title_activity_static_chart_line_activity2">StaticChartLineActivity2</string>
+    <string name="title_activity_statistics_file_chooser">StatisticsFileChooser</string>
+    <string name="title_activity_success_rate_list">SuccessRateList</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_xychart_builder">XYChartBuilder</string>
+    <string name="x">X</string>
+    <string name="y">Y</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="DefaultButtonText">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#979797</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">3dp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:shadowColor">#f9f9f9</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">1</item>
+    </style>
+</resources>

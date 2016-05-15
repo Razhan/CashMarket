@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:stretchColumns="0,1,2,3" >
+
+    <TextView
+        android:gravity="center"
+        android:id="@+id/begin"
+        android:layout_height="32dp"
+        android:textSize="60px"/>
+    <TableRow android:paddingTop="10dip">
+
+        <TextView
+            android:gravity="center"
+            android:text="Rule"/>
+
+        <TextView
+            android:gravity="center"
+            android:text="Success" />
+
+        <TextView
+            android:gravity="center"
+            android:text="Failure" />
+
+        <TextView
+            android:gravity="center"
+            android:text="Sum" />
+
+        <TextView
+            android:gravity="center"
+            android:text="Success rate"/>
+    </TableRow>
+
+    <!--<TableRow android:paddingTop="7dip">-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R1N"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R1C"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R1F"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R1S"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R1R"-->
+            <!--/>-->
+    <!--</TableRow>-->
+
+    <!--<TableRow android:paddingTop="7dip">-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R2N"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R2C"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R2F"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R2S"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R2R"-->
+            <!--/>-->
+    <!--</TableRow>-->
+
+    <!--<TableRow android:paddingTop="7dip">-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R3N"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R3C"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R3F"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R3S"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R3R"-->
+            <!--/>-->
+    <!--</TableRow>-->
+
+    <!--<TableRow android:paddingTop="7dip">-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R4N"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R4C"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R4F"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R4S"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R4R"-->
+            <!--/>-->
+    <!--</TableRow>-->
+
+    <!--<TableRow android:paddingTop="7dip">-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R5N"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R5C"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R5F"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R5S"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R5R"-->
+            <!--/>-->
+    <!--</TableRow>-->
+
+    <!--<TableRow android:paddingTop="7dip">-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R6N"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R6C"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R6F"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R6S"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R6R"-->
+            <!--/>-->
+    <!--</TableRow>-->
+
+    <!--<TableRow android:paddingTop="7dip">-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R7N"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R7C"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R7F"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R7S"-->
+            <!--/>-->
+
+        <!--<TextView-->
+            <!--android:gravity="center"-->
+            <!--android:id="@+id/R7R"-->
+            <!--/>-->
+    <!--</TableRow>-->
+
+    <TableRow android:paddingTop="7dip">
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R8N"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R8C"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R8F"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R8S"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R8R"
+            />
+    </TableRow>
+
+    <TableRow android:paddingTop="7dip">
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R9N"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R9C"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R9F"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R9S"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R9R"
+            />
+    </TableRow>
+
+    <TableRow android:paddingTop="7dip">
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R10N"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R10C"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R10F"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R10S"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R10R"
+            />
+    </TableRow>
+
+    <TableRow android:paddingTop="7dip">
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R11N"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R11C"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R11F"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R11S"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R11R"
+            />
+    </TableRow>
+
+    <TableRow android:paddingTop="7dip">
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R12N"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R12C"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R12F"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R12S"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R12R"
+            />
+    </TableRow>
+
+    <TableRow android:paddingTop="7dip">
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R13N"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R13C"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R13F"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R13S"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R13R"
+            />
+    </TableRow>
+
+    <TableRow android:paddingTop="7dip">
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R14N"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R14C"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R14F"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R14S"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R14R"
+            />
+    </TableRow>
+
+    <TableRow android:paddingTop="7dip">
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R15N"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R15C"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R15F"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R15S"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R15R"
+            />
+    </TableRow>
+
+    <TableRow android:paddingTop="7dip">
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R0N"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R0C"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R0F"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R0S"
+            />
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/R0R"
+            />
+    </TableRow>
+
+
+</TableLayout>  

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/email.png",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/drawable-hdpi/email.png"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/edittext_top_bg.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/drawable-hdpi/edittext_top_bg.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/edittext_bottom_bg.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/drawable-hdpi/edittext_bottom_bg.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/balloon_bg.png",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/drawable-hdpi/balloon_bg.png"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/edittext_default_bg.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/drawable-hdpi/edittext_default_bg.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/user.png",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/drawable-hdpi/user.png"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/password.png",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/drawable-hdpi/password.png"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/linearlayout_bg.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/drawable-hdpi/linearlayout_bg.xml"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/button_default_bg.xml",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/drawable-hdpi/button_default_bg.xml"
+    }
+]

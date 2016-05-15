@@ -1,3 +1,0 @@
-C:\Users\razha_000\AndroidStudioProjects\line_chart\app\build\intermediates\classes\release
-C:\Users\razha_000\AndroidStudioProjects\line_chart\app\build\intermediates\pre-dexed\release\achartengine-1.1.0-517c5d4bdcf0c2906a6a83fa2f5f6cc6aaefb122.jar
-C:\Users\razha_000\AndroidStudioProjects\line_chart\app\build\intermediates\pre-dexed\release\support-v4-19.1.0-bdb12ca1c5fe953e090fd5a103edb653e7de54ee.jar

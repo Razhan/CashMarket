@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/raw/ben.ogg",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/raw/ben.ogg"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/raw/bounce.ogg",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/raw/bounce.ogg"
+    },
+    {
+        "merged": "/home/ran/Code/line_chart/app/build/intermediates/res/merged/debug/raw/click.ogg",
+        "source": "/home/ran/Code/line_chart/app/src/main/res/raw/click.ogg"
+    }
+]

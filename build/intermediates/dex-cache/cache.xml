@@ -2,18 +2,39 @@
 <items version="2" >
 
     <item
-        jar="D:\Program Files\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="C:\Users\razha_000\AndroidStudioProjects\line_chart\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-bdb12ca1c5fe953e090fd5a103edb653e7de54ee.jar" />
+        jar="/home/ran/Code/line_chart/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ae80ff56ec306efe74a2e0cfa686a2a9e396c575">
+        <dex dex="/home/ran/Code/line_chart/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_681f975ccccca434d861bd4aad185a31bcd2e4e7/classes.dex" />
     </item>
     <item
-        jar="C:\Users\razha_000\AndroidStudioProjects\line_chart\app\libs\achartengine-1.1.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
+        jar="/home/ran/Code/line_chart/app/libs/achartengine-1.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
         sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
-        <dex dex="C:\Users\razha_000\AndroidStudioProjects\line_chart\app\build\intermediates\pre-dexed\debug\achartengine-1.1.0-517c5d4bdcf0c2906a6a83fa2f5f6cc6aaefb122.jar" />
+        <dex dex="/home/ran/Code/line_chart/app/build/intermediates/transforms/dex/debug/folders/1000/2/achartengine-1.1.0_f2871594b5274821b51bcbdd719b40e5f05d34b5/classes.dex" />
+    </item>
+    <item
+        jar="/home/ran/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/ran/Code/line_chart/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_cd2507b64416944b220cb73b2264ed62b7cea227/classes.dex" />
+    </item>
+    <item
+        jar="/home/ran/Code/line_chart/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3136c72a8f91d0e17630e6b2f8b2baf69e875e6a">
+        <dex dex="/home/ran/Code/line_chart/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b77597f049c404457fbef2dcc974b98ffae4e10f/classes.dex" />
+    </item>
+    <item
+        jar="/home/ran/Code/line_chart/app/libs/mpandroidchartlibrary-1-7-4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c685e45ac6491e51640ce3571606ac22dfd4a6a3">
+        <dex dex="/home/ran/Code/line_chart/app/build/intermediates/transforms/dex/debug/folders/1000/2/mpandroidchartlibrary-1-7-4_099f61c7c5076c77e08b9f1594818c288ab355d2/classes.dex" />
     </item>
 
 </items>

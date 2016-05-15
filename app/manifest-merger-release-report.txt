@@ -25,66 +25,126 @@ uses-permission#android.permission.VIBRATE
 ADDED from AndroidManifest.xml:9:5
 	android:name
 		ADDED from AndroidManifest.xml:9:22
+uses-permission#android.permission.WAKE_LOCK
+ADDED from AndroidManifest.xml:10:5
+	android:name
+		ADDED from AndroidManifest.xml:10:22
 application
-ADDED from AndroidManifest.xml:11:5
-	android:theme
-		ADDED from AndroidManifest.xml:11:18
-activity#com.example.over1.MainActivity
-ADDED from AndroidManifest.xml:16:9
+ADDED from AndroidManifest.xml:12:5
 	android:label
+		ADDED from AndroidManifest.xml:15:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:13:9
+	android:icon
+		ADDED from AndroidManifest.xml:14:9
+	android:theme
+		ADDED from AndroidManifest.xml:16:9
+activity#com.example.cashmarket.Home
+ADDED from AndroidManifest.xml:17:9
+	android:label
+		ADDED from AndroidManifest.xml:19:13
+	android:name
 		ADDED from AndroidManifest.xml:18:13
+activity#com.example.cashmarket.Success
+ADDED from AndroidManifest.xml:21:9
+	android:label
+		ADDED from AndroidManifest.xml:23:13
 	android:name
-		ADDED from AndroidManifest.xml:17:13
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:19:13
-action#android.intent.action.MAIN
-ADDED from AndroidManifest.xml:20:17
-	android:name
-		ADDED from AndroidManifest.xml:20:25
-category#android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:22:17
-	android:name
-		ADDED from AndroidManifest.xml:22:27
-activity#com.example.over1.ButtonDemoActivity
+		ADDED from AndroidManifest.xml:22:13
+activity#com.example.cashmarket.Chart
 ADDED from AndroidManifest.xml:25:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:28:13
 	android:label
 		ADDED from AndroidManifest.xml:27:13
-	android:theme
-		ADDED from AndroidManifest.xml:28:13
 	android:name
 		ADDED from AndroidManifest.xml:26:13
-activity#com.example.over1.XYChartBuilder
+activity#com.example.cashmarket.ArchiveFileChooser
 ADDED from AndroidManifest.xml:30:9
-	android:screenOrientation
-		ADDED from AndroidManifest.xml:33:13
 	android:label
 		ADDED from AndroidManifest.xml:32:13
 	android:name
 		ADDED from AndroidManifest.xml:31:13
-activity#com.example.over1.FileChooser
-ADDED from AndroidManifest.xml:35:9
+activity#com.example.cashmarket.Help
+ADDED from AndroidManifest.xml:34:9
 	android:label
-		ADDED from AndroidManifest.xml:37:13
-	android:name
 		ADDED from AndroidManifest.xml:36:13
-activity#com.example.over1.Help
-ADDED from AndroidManifest.xml:39:9
-	android:label
-		ADDED from AndroidManifest.xml:41:13
 	android:name
+		ADDED from AndroidManifest.xml:35:13
+activity#com.example.cashmarket.Direction
+ADDED from AndroidManifest.xml:38:9
+	android:label
 		ADDED from AndroidManifest.xml:40:13
-activity#com.example.over1.Rules_webview
-ADDED from AndroidManifest.xml:43:9
-	android:label
-		ADDED from AndroidManifest.xml:45:13
 	android:name
+		ADDED from AndroidManifest.xml:39:13
+activity#com.example.cashmarket.Login
+ADDED from AndroidManifest.xml:42:9
+	android:label
 		ADDED from AndroidManifest.xml:44:13
-activity#com.example.over1.Test
+	android:name
+		ADDED from AndroidManifest.xml:43:13
+activity#com.example.cashmarket.StatisticsFileChooser
 ADDED from AndroidManifest.xml:47:9
 	android:label
 		ADDED from AndroidManifest.xml:49:13
 	android:name
 		ADDED from AndroidManifest.xml:48:13
+activity#com.example.cashmarket.SuccessRateList
+ADDED from AndroidManifest.xml:51:9
+	android:label
+		ADDED from AndroidManifest.xml:53:13
+	android:name
+		ADDED from AndroidManifest.xml:52:13
+activity#com.example.cashmarket.NewLogin
+ADDED from AndroidManifest.xml:55:9
+	android:label
+		ADDED from AndroidManifest.xml:57:13
+	android:name
+		ADDED from AndroidManifest.xml:56:13
+activity#com.example.cashmarket.MainActivity
+ADDED from AndroidManifest.xml:59:9
+	android:label
+		ADDED from AndroidManifest.xml:61:13
+	android:name
+		ADDED from AndroidManifest.xml:60:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:63:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:64:17
+	android:name
+		ADDED from AndroidManifest.xml:64:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:66:17
+	android:name
+		ADDED from AndroidManifest.xml:66:27
+activity#com.example.cashmarket.SignUpActivity
+ADDED from AndroidManifest.xml:70:9
+	android:label
+		ADDED from AndroidManifest.xml:72:13
+	android:name
+		ADDED from AndroidManifest.xml:71:13
+activity#com.example.cashmarket.ListViewMultiChartActivity
+ADDED from AndroidManifest.xml:74:9
+	android:label
+		ADDED from AndroidManifest.xml:76:13
+	android:name
+		ADDED from AndroidManifest.xml:75:13
+activity#com.example.cashmarket.ListViewBarChartActivity
+ADDED from AndroidManifest.xml:79:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:82:13
+	android:label
+		ADDED from AndroidManifest.xml:81:13
+	android:name
+		ADDED from AndroidManifest.xml:80:13
+activity#com.example.cashmarket.Load
+ADDED from AndroidManifest.xml:84:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:87:13
+	android:label
+		ADDED from AndroidManifest.xml:86:13
+	android:name
+		ADDED from AndroidManifest.xml:85:13
 uses-sdk
 INJECTED from AndroidManifest.xml:0:0 reason: use-sdk injection requested
 	android:targetSdkVersion

@@ -1,12 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 19
-    buildToolsVersion "21.1.2"
+    compileSdkVersion 22
+    buildToolsVersion "23.0.3"
 
     defaultConfig {
         applicationId "com.example.line_chart"
-        minSdkVersion 8
+        minSdkVersion 9
         targetSdkVersion 18
     }
 
@@ -16,9 +16,11 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+    sourceSets { main { java.srcDirs = ['src/main/java', 'src/main/java/Rules'] } }
 }
 
 dependencies {
     compile 'com.android.support:support-v4:19.1.0'
     compile files('libs/achartengine-1.1.0.jar')
+    compile files('libs/mpandroidchartlibrary-1-7-4.jar')
 }
